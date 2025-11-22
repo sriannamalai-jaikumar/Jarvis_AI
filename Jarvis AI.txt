@@ -1,0 +1,15 @@
+Websocket URL  - wss://jarvis-ai-rvvytj59.livekit.cloud
+API key - API9ByxgLrQcsbG
+API secret - bFj9qH09Zw9fTgerYFXeAhdUIfbbvJxRkKrugrisgxCC
+
+LIVEKIT_URL=wss://jarvis-ai-rvvytj59.livekit.cloud
+LIVEKIT_API_KEY=API9ByxgLrQcsbG
+LIVEKIT_API_SECRET=bFj9qH09Zw9fTgerYFXeAhdUIfbbvJxRkKrugrisgxCC
+
+
+GOOGLE_API_KEY=AIzaSyCYMhQykmn6dVsGSMRE485A74vRjIgnHE0
+
+How to run the jarvis:
+
+cd \venv 
+python agent.py start
