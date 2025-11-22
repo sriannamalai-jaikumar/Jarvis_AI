@@ -7,7 +7,7 @@ LIVEKIT_API_KEY=API9ByxgLrQcsbG
 LIVEKIT_API_SECRET=bFj9qH09Zw9fTgerYFXeAhdUIfbbvJxRkKrugrisgxCC
 
 
-GOOGLE_API_KEY=AIzaSyCYMhQykmn6dVsGSMRE485A74vRjIgnHE0
+GOOGLE_API_KEY=###################################
 
 How to run the jarvis:
 
